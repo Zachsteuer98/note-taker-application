@@ -28,7 +28,12 @@ Run the application through Heroku.
 Note taking and saving
 
 ## Contributors
-None
+Juan Delgado
+Zachary Steuer 
+UCONN Coding Bootcamp
+
+![image](https://user-images.githubusercontent.com/93566950/153911161-372cf1ad-aa0c-47c7-87d8-44efe177b4aa.png)
+
 
 ## license
 
