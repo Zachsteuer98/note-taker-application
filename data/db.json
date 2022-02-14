@@ -1,8 +1,1 @@
-{
-  "notes": [
-    {
-      "title": "new note 1",
-      "text": "test test 1"
-    }
-  ]
-}
+[{"title":"new note 1","text":"test test 1"},{"title":"Pizza","text":"Pizza"},{"title":"Ice Cream","text":"Ice Cream\n","id":"ec2efa07-25f3-431b-98a7-f0d3bc4ed8c4"}]
